@@ -9,6 +9,6 @@ def approx(p, t, maxDistance):
                 if num > maxDistance:
                     break
         if num <= maxDistance:
-          occurences.append(i)
-    return occurences
+          occurrences.append(i)
+    return occurrences
       
